@@ -3,4 +3,4 @@ Web Directions 2015
 
 ## Thursday
 
-* [Kap Watkins: Designing everything](thursday/kap_watkins.md)
+* [Cap Watkins: Designing everything](thursday/cap_watkins.md)
