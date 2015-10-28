@@ -1,7 +1,7 @@
 # wd15
 Web Directions 2015
 
-## Kap Watkins
+## Cap Watkins
 
 VP of design at BuzzFeed
 
@@ -37,7 +37,7 @@ Bugs filled as `design-tweaks` never get fixed (prio too low). So, instead, set 
 
 None of this is easy. Chance is hard, and often creates uncertainty about the future. Acknowledge and empathise to get through it. Make them your partner. E.g.: tell the designers they're the experts, and they need to help the developers (and vice versa).
 
-Role documentation (how to progress, etc) is needed. Kap did it for design, but didn't stoop there: did it with engineering, etc, too (in collaboration with the leads there), and that built a lot of trust.
+Role documentation (how to progress, etc) is needed. Cap did it for design, but didn't stoop there: did it with engineering, etc, too (in collaboration with the leads there), and that built a lot of trust.
 
 Don't be afraid to let things go. Especially the small things. Then when you *do* fight for something, people believe you're serious.
 
