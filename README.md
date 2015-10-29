@@ -10,3 +10,7 @@ Web Directions 2015
 * [Jeremy Nagel: Checklist Driven Development](thursday/jeremy_nagel.md)
 * [Warwick Cox: Web Notifications](thursday/warwick_cox.md)
 * [Maciej Cegloweski: The Website Obesity Crisis](thursday/maciej_cegloweski.md)
+
+## Friday
+
+* [Hannah Donovan: Souls & Machines: Designing the future of content](friday/hannah_donovan.md)
