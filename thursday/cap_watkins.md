@@ -15,11 +15,11 @@ BuzzFeed. Built essentially Tamagotchi on your watch (Hambone). Tech team is 170
 
 How do you create a culture that values design?
 
-It's hard. You _will_ experience failure, and the wind won't be as big as you really want.
+It's hard. You _will_ experience failure, and the wins won't be as big as you really want.
 
-The only way to start making this better: define your ideal state of the world. Really think about it, asks write it down.
+The only way to start making this better: define your ideal state of the world. Really think about it, and write it down.
 
-But, not "Design makes all the decisions". You're never as benevolent or nice as you'd like.
+But, not "Design makes all the decisions". You're never as benevolent or nice as you'd like to think.
 
 Don't silo design, product, engineering. Try overlap them where possible.
 
@@ -33,11 +33,11 @@ Designers should code. They weren't in BuzzFeed, but taught themselves and wrote
 
 Use treehouse for cooperative learning sessions in the team.
 
-Bugs filled as `design-tweaks` never get fixed (prio too low). So, instead, set aside time with 1 designer, and 1 engineer at least once a week to spend an hour fixing things and shipping to production. Bonus: Exposes the designer to the production code base too!
+Bugs filed as `design-tweaks` never get fixed (prio too low). So, instead, set aside time with 1 designer, and 1 engineer at least once a week to spend an hour fixing things and shipping to production. Bonus: Exposes the designer to the production code base too!
 
-None of this is easy. Chance is hard, and often creates uncertainty about the future. Acknowledge and empathise to get through it. Make them your partner. E.g.: tell the designers they're the experts, and they need to help the developers (and vice versa).
+None of this is easy. Change is hard, and often creates uncertainty about the future. Acknowledge and empathise to get through it. Make them your partner. E.g.: tell the designers they're the experts, and they need to help the developers (and vice versa).
 
-Role documentation (how to progress, etc) is needed. Cap did it for design, but didn't stoop there: did it with engineering, etc, too (in collaboration with the leads there), and that built a lot of trust.
+Role documentation (how to progress, etc) is needed. Cap did it for design, but didn't stop there: did it with engineering, etc, too (in collaboration with the leads there), and that built a lot of trust.
 
 Don't be afraid to let things go. Especially the small things. Then when you *do* fight for something, people believe you're serious.
 
