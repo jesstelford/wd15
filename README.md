@@ -9,3 +9,4 @@ Web Directions 2015
 * [Julia Clavien: Cognitive Bias in Software Development](thursday/julia_clavien.md)
 * [Jeremy Nagel: Checklist Driven Development](thursday/jeremy_nagel.md)
 * [Warwick Cox: Web Notifications](thursday/warwick_cox.md)
+* [Maciej Cegloweski: The Website Obesity Crisis](thursday/maciej_cegloweski.md)
