@@ -2,7 +2,7 @@
 
 Julia Clavien
 
-[http://twitter.com/juliaclavien](@juliaclavien)
+[@juliaclavien](http://twitter.com/juliaclavien)
 
 Devs aren't perfect. A rockstar dev team doesn't mean they wont make mistakes.
 
