@@ -313,3 +313,12 @@ component.
 Thanks to [these folks](http://github.com/orgs/css-modules/people)
 
 Slides: http://glenmaddern.com/slides/modular-style
+
+## Q&A
+
+> What about moving an existing SASS codebase?
+
+It's already kinda similar: a `variables.scss` file, etc.
+
+Then if you're doing BEM, etc, in the SASS, you can start incrementally
+converting small parts (leaf nodes) to CSS Modules way.
