@@ -175,7 +175,7 @@ Example: 235 times faster to use a shell script than the "distributed" hadoop
 solution when solving chess moves.
 
 | | Pinboard | ACME
-| ----- | -----
+| ----- | ----- | -----
 | Daily Users | 8k | 3k
 | Employees | 1 | 1
 | Revenue | 12K | 5K
