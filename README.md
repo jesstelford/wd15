@@ -8,3 +8,4 @@ Web Directions 2015
 * [Kitt Hodsden: Automation for Developer Happiness](thursday/kitt_hodsden.md)
 * [Julia Clavien: Cognitive Bias in Software Development](thursday/julia_clavien.md)
 * [Jeremy Nagel: Checklist Driven Development](thursday/jeremy_nagel.md)
+* [Warwick Cox: Web Notifications](thursday/warwick_cox.md)
