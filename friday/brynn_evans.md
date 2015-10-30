@@ -91,3 +91,5 @@ Expect users to change; track, research, adapt.
 Integrate online and offline. Experiences don't just happen in your app. Things happen in real life too. Consider the context of the problem, the holistic experience.
 
 Own the experience. Fill in the gaps in a flow, work around bureaucracy.
+
+Find your passion. Your best work comes when you're working on something you want to work on.
