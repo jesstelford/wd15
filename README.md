@@ -17,3 +17,4 @@ Web Directions 2015
 * [Denise Jacobs: Hacking the creative brain](friday/denise_jacobs.md)
 * [Eric Elliott: Two Pillars Of Javascript](friday/eric_elliott.md)
 * [Brynn Evans: Beauty of ordinary design](friday/brynn_evans.md)
+* [Alastair Simpson & Nat Jones: Designing Spaces for Creative Spaces](friday/alastair_simpson_and_nat_jones.md)
