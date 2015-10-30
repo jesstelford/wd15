@@ -76,7 +76,7 @@ No throttling. Auto stitches to the strongest signal (Wi-Fi vs LTE, etc), not ju
 * Experiences span period of time
 * Service design (in fact, it's just product design)
 
-## Take always
+## Take aways
 
 What can I do?
 
