@@ -14,3 +14,4 @@ Web Directions 2015
 ## Friday
 
 * [Hannah Donovan: Souls & Machines: Designing the future of content](friday/hannah_donovan.md)
+* [Denise Jacobs: Hacking the creative brain](friday/denise_jacobs.md)
