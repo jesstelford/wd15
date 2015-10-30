@@ -2,9 +2,9 @@
 
 Kitt Hodsden
 
-http://ki.tt/wd15
+Slide: http://ki.tt/wd15
 
-@kitt
+[@kitt](https://twitter.com/kitt)
 
 Performance is everyone's problem
 

@@ -1,6 +1,6 @@
 # CSS in the age of components
 
-Mark Dalgleish
+[Mark Dalgleish](https://twitter.com/markdalgleish)
 
 * Documents vs Web Apps
 * Global scope vs Maintenance
@@ -132,14 +132,14 @@ Became `postcss-local-scope` which turned `.class` into `:local(.class)`
 > implement? What you're doing could totally fix the CSS ecosystem if it's
 > widely adopted.
 
-Hence: [http://github.com/css-modules](CSS Modules) (with a funny, ironic logo)
+Hence: [CSS Modules](http://github.com/css-modules) (with a funny, ironic logo)
 
 Available in Webpack today. And Browserify, JSPM, a node `require` hook. Still
 expanding.
 
 ---
 
-Part 2: [http://twitter.com/glenmaddern](Glen Maddern)
+Part 2: [Glen Maddern](http://twitter.com/glenmaddern)
 
 ## The rise of modular style
 
@@ -312,7 +312,7 @@ component.
 
 Thanks to [these folks](http://github.com/orgs/css-modules/people)
 
-Slides: http://glenmaddern.com/slides/modular-style
+Slides: [Part 1](http://markdalgleish.github.io/presentation-the-end-of-global-css), [Part 2](http://glenmaddern.com/slides/modular-style)
 
 ## Q&A
 
