@@ -30,7 +30,7 @@ Case study: Etsy has great goals (total page load time, page weight, etc).
 You _should_ know how fast your site is. It's not hard: Open your browser, and
 look at the timeline waterfall (Chrome DevTools is best).
 
-[perfBar](http://wpotools.github.io/perfBar/) gives you a list of things you
+[perfBar](https://github.com/WPOTools/perfBar) gives you a list of things you
 should be paying attention to. If it's red, fix it.
 
 "But it's fast for me" is a valid use case. But not the only one. You also have
